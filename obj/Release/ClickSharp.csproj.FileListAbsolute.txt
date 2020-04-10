@@ -1,0 +1,8 @@
+C:\Users\Jrh\source\repos\ClickSharp\obj\Release\ClickSharp.Form1.resources
+C:\Users\Jrh\source\repos\ClickSharp\obj\Release\ClickSharp.Properties.Resources.resources
+C:\Users\Jrh\source\repos\ClickSharp\obj\Release\ClickSharp.csproj.GenerateResource.cache
+C:\Users\Jrh\source\repos\ClickSharp\bin\Release\ClickSharp.exe.config
+C:\Users\Jrh\source\repos\ClickSharp\bin\Release\ClickSharp.exe
+C:\Users\Jrh\source\repos\ClickSharp\bin\Release\ClickSharp.pdb
+C:\Users\Jrh\source\repos\ClickSharp\obj\Release\ClickSharp.exe
+C:\Users\Jrh\source\repos\ClickSharp\obj\Release\ClickSharp.pdb
